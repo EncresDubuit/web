@@ -27,7 +27,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [support_branding](support_branding/) | 14.0.1.0.0 |  | Adds your branding to an Odoo instance
-[web_access_rule_buttons](web_access_rule_buttons/) | 14.0.1.0.0 |  | Disable Edit button if access rules prevent this action
+[web_access_rule_buttons](web_access_rule_buttons/) | 14.0.1.0.1 |  | Disable Edit button if access rules prevent this action
 [web_action_conditionable](web_action_conditionable/) | 14.0.1.0.1 |  | web_action_conditionable
 [web_advanced_search](web_advanced_search/) | 14.0.1.0.1 |  | Easier and more powerful searching tools
 [web_calendar_color_field](web_calendar_color_field/) | 14.0.1.0.0 |  | Calendar Color Field
@@ -36,8 +36,8 @@ addon | version | maintainers | summary
 [web_copy_confirm](web_copy_confirm/) | 14.0.1.0.0 |  | Show confirmation dialogue before copying records
 [web_decimal_numpad_dot](web_decimal_numpad_dot/) | 14.0.1.0.0 |  | Allows using numpad dot to enter period decimal separator
 [web_dialog_size](web_dialog_size/) | 14.0.1.0.0 |  | A module that lets the user expand a dialog box to the full screen width.
-[web_disable_export_group](web_disable_export_group/) | 14.0.1.0.0 |  | Web Disable Export Group
-[web_domain_field](web_domain_field/) | 14.0.1.0.0 |  | Use computed field as domain
+[web_disable_export_group](web_disable_export_group/) | 14.0.2.0.0 |  | Web Disable Export Group
+[web_domain_field](web_domain_field/) | 14.0.1.0.2 |  | Use computed field as domain
 [web_drop_target](web_drop_target/) | 14.0.1.1.1 |  | Allows to drag files into Odoo
 [web_environment_ribbon](web_environment_ribbon/) | 14.0.1.0.0 |  | Web Environment Ribbon
 [web_group_expand](web_group_expand/) | 14.0.1.0.0 |  | Group Expand Buttons
@@ -50,7 +50,7 @@ addon | version | maintainers | summary
 [web_no_bubble](web_no_bubble/) | 14.0.1.0.0 |  | Remove the bubbles from the web interface
 [web_notify](web_notify/) | 14.0.1.0.1 |  | Send notification messages to user
 [web_pwa_oca](web_pwa_oca/) | 14.0.1.0.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Make Odoo a PWA
-[web_refresher](web_refresher/) | 14.0.1.0.0 |  | Web Refresher
+[web_refresher](web_refresher/) | 14.0.2.0.0 |  | Web Refresher
 [web_responsive](web_responsive/) | 14.0.1.2.0 | [![Yajo](https://github.com/Yajo.png?size=30px)](https://github.com/Yajo) [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) | Responsive web client, community-supported
 [web_search_with_and](web_search_with_and/) | 14.0.1.0.0 |  | Use AND conditions on omnibar search
 [web_send_message_popup](web_send_message_popup/) | 14.0.1.0.0 |  | Web Send Message as Popup
@@ -68,7 +68,9 @@ addon | version | maintainers | summary
 [web_widget_domain_editor_dialog](web_widget_domain_editor_dialog/) | 14.0.1.0.1 |  | Recovers the Domain Editor Dialog functionality
 [web_widget_dropdown_dynamic](web_widget_dropdown_dynamic/) | 14.0.1.0.0 |  | This module adds support for dynamic dropdown widget
 [web_widget_image_download](web_widget_image_download/) | 14.0.1.0.0 |  | Allows to download any image from its widget
+[web_widget_image_webcam](web_widget_image_webcam/) | 14.0.1.0.1 |  | Allows to take image with WebCam
 [web_widget_many2one_simple](web_widget_many2one_simple/) | 14.0.1.0.0 | [![Tardo](https://github.com/Tardo.png?size=30px)](https://github.com/Tardo) | Simple many2one widget
+[web_widget_mermaid](web_widget_mermaid/) | 14.0.1.0.0 |  | Render mermaid markdown flowcharts
 [web_widget_model_viewer](web_widget_model_viewer/) | 14.0.1.0.0 | [![eLBati](https://github.com/eLBati.png?size=30px)](https://github.com/eLBati) | Easily display interactive 3D models on the web & in AR
 [web_widget_mpld3_chart](web_widget_mpld3_chart/) | 14.0.1.0.0 |  | This widget allows to display charts using MPLD3 library.
 [web_widget_numeric_step](web_widget_numeric_step/) | 14.0.1.0.0 |  | Web Widget Numeric Step
